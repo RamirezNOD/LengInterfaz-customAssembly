@@ -1,0 +1,22 @@
+; 3- Imprimir los numeros pares del 2 al 48
+
+inicio = 1
+fin = 20
+	
+.begin:	
+	mov Ra, 0
+	mov Rb, fin
+	mov Rc, 1
+	jnz .ciclo
+	hlt
+	
+.ciclo:
+	
+	inc Ra
+	inc Ra
+	mov Rd, Ra
+	
+	mov Rb, fin
+	cmp Rc
+	jnz .ciclo
+	hlt	
