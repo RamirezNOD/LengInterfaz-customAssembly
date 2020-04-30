@@ -1,7 +1,10 @@
 # Programas de CustomAssembly Troy's Breadboard Computer <br/>
 
 En base a "Problemas para resolver por computadora" 
-[PDF](https://drive.google.com/file/d/1efOHOLvFJGpSsO0gv8HOPNdins-AaOPX/view)
+[PDF](https://drive.google.com/file/d/1efOHOLvFJGpSsO0gv8HOPNdins-AaOPX/view)<br/>
+
+Hecha en Custom Assembly ([Troy's Breadboard Computer](https://cpu.visualrealmsoftware.com/))<br/>
+
 
 1- Imprimir numeros enteros del 9 al 43<br/>
 2- Imprimir los numeros impares del 7 al 51<br/>
