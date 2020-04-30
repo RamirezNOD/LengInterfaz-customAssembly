@@ -1,6 +1,6 @@
 # Programas de CustomAssembly Troy's Breadboard Computer <br/>
 
-En base a "Problemas para resolver por computadora"<br/>
+En base a "Problemas para resolver por computadora" 
 [PDF](https://drive.google.com/file/d/1efOHOLvFJGpSsO0gv8HOPNdins-AaOPX/view)
 
 1- Imprimir numeros enteros del 9 al 43<br/>
